@@ -1,15 +1,15 @@
 <rss version="2.0">
  <channel>
- <title>Example Feed</title>
- <description>Insert witty or insightful remark here</description>
+ <title>RSS</title>
+ <description>heya</description>
  <link>https://github.com/AnxoM/PROYECRTORSS.git</link>
  <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
- <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+ <managingEditor>a23anxomb@iessanclemente.net</managingEditor>
  <item>
- <title>Test page</title>
+ <title>Rune</title>
  <link>http://example.org/test.html</link>
  <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
- <description>Some text.</description>
+ <description>Delta</description>
  </item>
  </channel>
 </rss>
