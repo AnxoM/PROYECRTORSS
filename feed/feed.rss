@@ -1,15 +1,15 @@
 <rss version="2.0">
- <channel>
- <title>RSS</title>
- <description>heya</description>
- <link>https://anxom.github.io/PROYECRTORSS/</link>
- <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
- <managingEditor>a23anxomb@iessanclemente.net</managingEditor>
- <item>
- <title>Rune</title>
- <link>https://anxom.github.io/PROYECRTORSS/</link>
- <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
- <description>Delta</description>
- </item>
- </channel>
+    <channel>
+        <title>RSS</title>
+        <description>heya</description>
+        <link>https://anxom.github.io/PROYECRTORSS/</link>
+        <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
+        <managingEditor>a23anxomb@iessanclemente.net</managingEditor>
+        <item>
+            <title>Rune</title>
+            <link>https://anxom.github.io/PROYECRTORSS/</link>
+            <pubDate>Fri, 24 Nov 2023 09:42:33 GMT</pubDate>
+            <description>Delta</description>
+        </item>
+    </channel>
 </rss>
